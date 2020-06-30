@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">North Sea Sushi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_title">Cart</string>
+    <string name="cart_description">Shopping cart</string>
+    <string name="roll_label">Rolls</string>
+    <string name="sushi_label">Sushi</string>
+    <string name="soup_label">Soups</string>
+    <string name="deserts_label">Deserts</string>
+    <string name="drinks_label">Drinks</string>
+    <string name="restaurants_label">Restaurants</string>
+    <string name="ph_unagi">Philadelphia Unagi</string>
+    <string name="ph_salmon">Philadelphia Salmon</string>
+    <string name="gl_dragon">Golden Dragon</string>
+    <string name="california_masago">California Masago</string>
+    <string name="gr_dragon">Green Dragon</string>
+    <string name="bl_dragon">Black Dragon</string>
+    <string name="fr_dragon">Fire Dragon</string>
+    <string name="hot_roll">Roll with hot vegetables</string>
+
+    <string name="sushi_seaweed">Sea Seaweed</string>
+    <string name="sushi_masago">Sushi with Masago</string>
+    <string name="sushi_shake">Sushi Shake</string>
+    <string name="sushi_shake_smoke">Sushi shake smoke</string>
+    <string name="sushi_spicy_shake">Spicy Shake Sushi</string>
+    <string name="sushi_unagi">Sushi Unagi</string>
+    <string name="unagi_spicy">Spicy Unagi</string>
+    <string name="sushi_fila">Sushi Fila Kunsei</string>
+
+
+    <string name="ramen_beef">Ramen with beefmeat</string>
+    <string name="ramen_pork">Ramen with pork</string>
+    <string name="miso_beef">Miso Beef Ramen</string>
+    <string name="miso_pork">Miso Pork Ramen</string>
+    <string name="miso_soup">Miso Soup</string>
+    <string name="miso_salmon">Miso Soup with Salmon</string>
+    <string name="miso_eel">Miso Soup with Eel</string>
+    <string name="miso_chicken">Miso Soup with Chicken</string>
+
+
+    <string name="red_velvet">Red Velvet</string>
+    <string name="wald">Schwarzwald</string>
+    <string name="snikers">Snikers</string>
+    <string name="konkord">Konkord</string>
+    <string name="nut_cake">Nut Cake</string>
+    <string name="cheese_cake">Cheese Cake</string>
+    <string name="roll_banana">Rolls with bananas</string>
+    <string name="roll_kiwi">Rolls with kiwi</string>
+
+    <string name="apple_fresh">Apple fresh juice</string>
+    <string name="carrot_apple_fresh">Carrot-Apple fresh juice</string>
+    <string name="carrot_fresh">Carrot fresh juice</string>
+    <string name="orange_fresh">Oranges fresh juice</string>
+    <string name="gin_lemonade">Ginger Lemonade</string>
+    <string name="grape_fresh">Grape fruit fresh</string>
+    <string name="mint_lemonade">Mint Lemonade</string>
+
+    <string name="gdansk">Gdansk</string>
+    <string name="gdynia">Gdynia</string>
+    <string name="katowice">Katowice</string>
+    <string name="krakow">Krakow</string>
+    <string name="poznan">Poznan</string>
+    <string name="sopot">Sopot</string>
+    <string name="warszawa">Warsaw</string>
+    <string name="wroclaw">Wroclaw</string>
+
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter order details</string>
+
+</resources>
